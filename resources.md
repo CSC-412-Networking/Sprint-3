@@ -1,4 +1,4 @@
-# Sprint 2 resources
+# Sprint 3 resources
 
 ## Topics:
 
