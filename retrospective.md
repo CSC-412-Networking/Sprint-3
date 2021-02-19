@@ -38,8 +38,8 @@ What went well, what didn't go well, and why? This is not a report of "what" you
 
 Create a new markdown file in the repository for each student. Link to each reflection here:
 
-[Student 1's Reflection](FIXME.md "The markdown file")
+[Student 1's Reflection (DELETE ME)](FIXME.md "The markdown file. Delete me!")
 
-[Student 2's Reflection](FIXME.md "Another markdown file")
+[Student 2's Reflection (DELETE ME)](FIXME.md "Another markdown file. Delete me!")
 
 ...
