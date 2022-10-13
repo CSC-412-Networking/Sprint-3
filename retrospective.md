@@ -4,23 +4,16 @@ The sprint retrospective is due at the end of the sprint, however, some componen
 
 Retrospectives should include the following items:
 
-- An updated Trello board
-- An updated issue queue in Github
+- Links to your Google Doc and Slack Channel
 - A list of all external resources used
 - A brief reflection on the process
-- Final Exam questions
+- Questions you'd like to see on the final exam
 
-## Trello Board
+## Communication
 
-All cards should be moved to the correct column, updated with the current status, and match the state of the product.
+Google Doc Link:  *Put a link to your Google Document here*
 
-Link to Trello: *Put a link to your Trello board board here*
-
-## Github Issue Queue
-
-No product is ever truly complete; this is your opportunity to acknowledge the work that remains. Any incomplete items should have an issue associated with them. Any issues that the instructor can easily identify that are not in the issue queue will count against your "Plan" grade.
-
-*Nothing needs done here, as long as your repository's issue queue is current*
+Link to Slack: *Put a link to your Slack channel here*
 
 ## List of External Resource Used this Sprint
 
@@ -30,7 +23,7 @@ All resources should be listed here. For each resource, in a sentence, describe 
 
 ## Future Exam questions
 
-Add at least four questions to the [Final Exam Questions file](exam.md "Final Exam Questions file"). The better the questions, the more likely they are to appear on the exam.
+Add at least two questions per person to the [Final Exam Questions file](exam.md "Final Exam Questions file"). The better the questions, the more likely they are to appear on the exam.
 
 ## Reflections
 
