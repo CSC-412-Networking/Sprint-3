@@ -1,14 +1,14 @@
-# Sprint 1: Wireless, Error Handling, and Multiplexing
+# Sprint 3: Network layer
 
 ## Learning Objectives
-- Develop a basic understanding of wireless networking
-- Explore in-depth different Error Handling methods
-- Examine the relationship between multiplexing and networking
+- Develop a basic understanding of the Network layer
+- Explore in-depth topics in the Network layer
+- Examine the relationship between two or more Network layer components
 
 ## Topics:
-- **Wireless:** IEEE 802.11/Bluetooth/NFC/RFID
-- **Error Handling:** Parity checks, Checksums, CRC, CSMA, CSMA-CD
-- **Multiplexing:** TDMA, FDMA, CDMA, ALOHA, Slotted ALOHA
+1. **Network/Internet Layer**: IPv4, IPv6, Packets, Routers, VPN/tunneling,  DHCP
+2. **Subnets**: Classful IP, Classless IP, Subnetting
+3. **Routing**: Shortest Path algorithm, Distance Vector Routing, RIP, IGRP/EIGRP, Link state routing, OSPF, BGP
 
 ## Known Resources
 
